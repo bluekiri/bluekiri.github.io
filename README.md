@@ -1,2 +1,2 @@
 # bluekiri.github.io
-BlueKiri
+Bluekiri
